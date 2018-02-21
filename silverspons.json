@@ -1,10 +1,10 @@
 {
-  "movies": [
-    { "title": "Star Wars", "releaseYear": "1977"},
-    { "title": "Back to the Future", "releaseYear": "1985"},
-    { "title": "The Matrix", "releaseYear": "1999"},
-    { "title": "Inception", "releaseYear": "2010"},
-    { "title": "Interstellar", "releaseYear": "2014"}
+  "silversponsorer": [
+    { "name": "Star Wars", "releaseYear": "1977"},
+    { "name": "Back to the Future", "releaseYear": "1985"},
+    { "name": "The Matrix", "releaseYear": "1999"},
+    { "name": "Inception", "releaseYear": "2010"},
+    { "name": "Interstellar", "releaseYear": "2014"}
   ]
 
 }
