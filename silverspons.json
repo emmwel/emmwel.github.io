@@ -1,7 +1,11 @@
 {
   "silversponsorer": [
-    { "name": "Gaia", "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"},
-    { "name": "HiQ", "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"}
+    { "name": "Gaia", 
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { "name": "HiQ", 
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    }
   ]
 
 }
