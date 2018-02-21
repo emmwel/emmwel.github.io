@@ -1,19 +1,10 @@
 {
-  "silversponsorer":  [
-      {
-        "name": "Gaia",
-        "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-        "plats": "1",
-        "onsdag": "1",
-        "torsdag": "1"
-      },
-      {
-        "name": "HiQ",
-        "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-        "plats": "1",
-        "onsdag": "1",
-        "torsdag": "1"
-      }
-    ]
+  "movies": [
+    { "title": "Star Wars", "releaseYear": "1977"},
+    { "title": "Back to the Future", "releaseYear": "1985"},
+    { "title": "The Matrix", "releaseYear": "1999"},
+    { "title": "Inception", "releaseYear": "2010"},
+    { "title": "Interstellar", "releaseYear": "2014"}
+  ]
 
 }
