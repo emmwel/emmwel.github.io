@@ -1,7 +1,7 @@
 {
   "silversponsorer": [
-    { "name": "Gaia", "releaseYear": "1977"},
-    { "name": "HiQ", "releaseYear": "1985"}
+    { "name": "Gaia", "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"},
+    { "name": "HiQ", "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"}
   ]
 
 }
