@@ -1,10 +1,12 @@
 {
   "silversponsorer": [
     { "name": "Gaia", 
-      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "2"
     },
     { "name": "HiQ", 
-      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "3"
     }
   ]
 
