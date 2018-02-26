@@ -1,70 +1,60 @@
 {
   "utstallare": [
-    {
-      "name": "Cygni",
+    { "name": "Cygni",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "1",
       "onsdag": "1",
       "torsdag": "1"
     }
-    {
-      "name": "Gaia",
+    { "name": "Gaia",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "2",
       "onsdag": "1",
       "torsdag": "1"
     },
-    {
-      "name": "HiQ",
+    { "name": "HiQ",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "3",
       "onsdag": "1",
       "torsdag": "1"
     }
-    {
-      "name": "Tobii",
+    { "name": "Tobii",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "4",
       "onsdag": "1",
       "torsdag": "1"
     },
-    {
-      "name": "Qualisys",
+    { "name": "Qualisys",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "5",
       "onsdag": "1",
       "torsdag": "1"
     },
-    {
-      "name": "SMHI",
+    { "name": "SMHI",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "6",
       "onsdag": "1",
       "torsdag": "1"
     },
-    {
-      "name": "SICK",
+    { "name": "SICK",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "7",
       "onsdag": "1",
       "torsdag": "1"
     },
-    {
-      "name": "Etteplan",
+    { "name": "Etteplan",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "8",
       "onsdag": "1",
       "torsdag": "1"
     },
-    {
-      "name": "Skill",
+    { "name": "Skill",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "9",
       "onsdag": "1",
       "torsdag": "1"
     },
-    { 
-      "name": "Visualiseringcenter C",
+    { "name": "Visualiseringcenter C",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "10",
       "onsdag": "1",
