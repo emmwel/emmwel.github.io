@@ -59,6 +59,84 @@
       "plats": "10",
       "onsdag": "1",
       "torsdag": "1"
+    },
+    { "name": "Dataton",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "11",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "Bontouch",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "12",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "NFC",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "13",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "Image System",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "14",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "Significant Bit",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "15",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "Xamera",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "16",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "Sectra",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "17",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "Unionen",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "18",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "Sogeti",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "19",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "Consid",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "20",
+      "onsdag": "0",
+      "torsdag": "1"
+    },
+    { "name": "Goodbye Kansas Studios",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "21",
+      "onsdag": "0",
+      "torsdag": "1"
+    },
+    { "name": "Ericsson",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "22",
+      "onsdag": "0",
+      "torsdag": "1"
+    },
+    { "name": "Zenterio",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "23",
+      "onsdag": "0",
+      "torsdag": "1"
     }
   ]
 
