@@ -30,7 +30,7 @@
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "6"
     },
-    { "name": "SICK", 
+    { "name": "Sick", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "7"
     },
@@ -76,7 +76,49 @@
       "plats": "19",
       "onsdag": "1",
       "torsdag": "1"
-    } 
+    },
+    { "name": "iMatrics",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "26",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "Unitalent",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "28",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "Venture Cup",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "30",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "RISE Interactive",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "41",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "InGenious",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "42",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "East Sweden Game",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "43",
+      "onsdag": "1",
+      "torsdag": "1"
+    },
+    { "name": "LiU Innovation",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "44",
+      "onsdag": "1",
+      "torsdag": "1"
+    }   
   ],
 
   "onsdag": [
@@ -103,6 +145,48 @@
       "plats": "15",
       "onsdag": "1",
       "torsdag": "0"
+    },
+    { "name": "Academic Work",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "29",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "Cybercom",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "31",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "Sick",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "7",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "Qlik",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "32",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "MindRoad",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "33",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "Resolution Games",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "34",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "Sveriges Ingenjörer",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "40",
+      "onsdag": "1",
+      "torsdag": "0"
     }
   ],
   "torsdag": [
@@ -127,6 +211,42 @@
     { "name": "Zenterio",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "23",
+      "onsdag": "0",
+      "torsdag": "1"
+    },
+    { "name": "Agricam",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "27",
+      "onsdag": "0",
+      "torsdag": "1"
+    },
+    { "name": "FindOut Technologies",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "35",
+      "onsdag": "0",
+      "torsdag": "1"
+    },
+    { "name": "DICE",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "36",
+      "onsdag": "0",
+      "torsdag": "1"
+    },
+    { "name": "TaxiCaller Nordic",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "37",
+      "onsdag": "0",
+      "torsdag": "1"
+    },
+    { "name": "Decerno",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "38",
+      "onsdag": "0",
+      "torsdag": "1"
+    },
+    { "name": "Dapresy",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "39",
       "onsdag": "0",
       "torsdag": "1"
     }
