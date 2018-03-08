@@ -1,0 +1,94 @@
+{
+  "events": [
+    { 
+      "title": "Frukost",
+      "host": "MTD-gruppen",
+      "start": "March 21, 2018 09:00:00",
+      "end": "March 21, 2018 10:00:00",
+      "place": "Loungen",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { 
+      "title": "Välkomsttal",
+      "host": "MTD-gruppen",
+      "start": "March 21, 2018 09:00:00",
+      "end": "March 21, 2018 09:15:00",
+      "place": "K4",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { 
+      "title": "Automation är inte lösningen. Det är verktyget.",
+      "host": "Nicholas Fernholm",
+      "start": "March 21, 2018 09:15:00",
+      "end": "March 21, 2018 10:00:00",
+      "place": "K4",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { 
+      "title": "Getting a Ph.D. - Why and How?",
+      "host": "Kahin Akram Hassan",
+      "start": "March 21, 2018 11:15:00",
+      "end": "March 21, 2018 12:00:00",
+      "place": "K4",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { 
+      "title": "Ingenjör, entreprenör, reklamare, hippie",
+      "host": "Walter Naeslund",
+      "start": "March 21, 2018 14:15:00",
+      "end": "March 21, 2018 15:00:00",
+      "place": "K4",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { 
+      "title": "Fönster mot TV-världen",
+      "host": "Annika Bidner",
+      "start": "March 21, 2018 16:15:00",
+      "end": "March 21, 2018 17:00:00",
+      "place": "K4",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { 
+      "title": "Frukost",
+      "host": "MTD-gruppen",
+      "start": "March 22, 2018 09:00:00",
+      "end": "March 22, 2018 10:00:00",
+      "place": "Loungen",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { 
+      "title": "Första jobbet",
+      "host": "Paneldiskussion",
+      "start": "March 22, 2018 10:15:00",
+      "end": "March 22, 2018 11:00:00",
+      "place": "K4",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { 
+      "title": "Virtuella miljöer på Stiller Studios",
+      "host": "Sofia Wennström & Aron Tornberg",
+      "start": "March 22, 2018 14:15:00",
+      "end": "March 22, 2018 15:00:00",
+      "place": "K4",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { 
+      "title": "SnakeBot-tävling",
+      "host": "Cygni",
+      "start": "March 22, 2018 15:00:00",
+      "end": "March 22, 2018 16:00:00",
+      "place": "?",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    },
+    { 
+      "title": "Hur en av världens mest moderna TV-boxar kom till världen",
+      "host": "Ulrika Asplund",
+      "start": "March 22, 2018 16:15:00",
+      "end": "March 22, 2018 17:00:00",
+      "place": "K4",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc"
+    }
+    
+  ]
+
+}
