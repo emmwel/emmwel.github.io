@@ -1,5 +1,5 @@
 {
-  "utstallare": [
+  "samarbetspartners": [
     { "name": "Cygni",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "1",
@@ -18,78 +18,41 @@
       "onsdag": "1",
       "torsdag": "1"
     },
-    { "name": "Tobii",
+    { "name": "Dataton", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "4",
-      "onsdag": "1",
-      "torsdag": "1"
+      "plats": "4"
     },
-    { "name": "Qualisys",
+    { "name": "Etteplan", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "5",
-      "onsdag": "1",
-      "torsdag": "1"
+      "plats": "5"
     },
-    { "name": "SMHI",
+    { "name": "Qualisys", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "6",
-      "onsdag": "1",
-      "torsdag": "1"
+      "plats": "6"
     },
-    { "name": "SICK",
+    { "name": "SICK", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "7",
-      "onsdag": "1",
-      "torsdag": "1"
+      "plats": "7"
     },
-    { "name": "Etteplan",
+    { "name": "Skill", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "8",
-      "onsdag": "1",
-      "torsdag": "1"
+      "plats": "8"
     },
-    { "name": "Skill",
+    { "name": "SMHI", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "9",
-      "onsdag": "1",
-      "torsdag": "1"
+      "plats": "9"
     },
-    { "name": "Visualiseringcenter C",
+    { "name": "Tobii", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "10",
-      "onsdag": "1",
-      "torsdag": "1"
+      "plats": "10"
     },
-    { "name": "Dataton",
+    { "name": "Visualiseringcenter C", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "11",
-      "onsdag": "1",
-      "torsdag": "1"
-    },
-    { "name": "Bontouch",
-      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "12",
-      "onsdag": "1",
-      "torsdag": "0"
-    },
-    { "name": "NFC",
-      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "13",
-      "onsdag": "1",
-      "torsdag": "0"
-    },
-    { "name": "Image System",
-      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "14",
-      "onsdag": "1",
-      "torsdag": "0"
-    },
-    { "name": "Significant Bit",
-      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
-      "plats": "15",
-      "onsdag": "1",
-      "torsdag": "0"
-    },
+      "plats": "11"
+    }
+  ],
+
+  "both": [
     { "name": "Xamera",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "16",
@@ -113,7 +76,36 @@
       "plats": "19",
       "onsdag": "1",
       "torsdag": "1"
+    } 
+  ],
+
+  "onsdag": [
+    { "name": "Bontouch",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "12",
+      "onsdag": "1",
+      "torsdag": "0"
     },
+    { "name": "NFC",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "13",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "Image System",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "14",
+      "onsdag": "1",
+      "torsdag": "0"
+    },
+    { "name": "Significant Bit",
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "15",
+      "onsdag": "1",
+      "torsdag": "0"
+    }
+  ],
+  "torsdag": [
     { "name": "Consid",
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "20",
