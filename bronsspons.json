@@ -1,14 +1,14 @@
 {
   "bronssponsorer": [
-    { "name": "Tobii", 
+    { "name": "Dataton", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "4"
     },
-    { "name": "Qualisys", 
+    { "name": "Etteplan", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "5"
     },
-    { "name": "SMHI", 
+    { "name": "Qualisys", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "6"
     },
@@ -16,17 +16,21 @@
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "7"
     },
-    { "name": "Etteplan", 
+    { "name": "Skill", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "8"
     },
-    { "name": "Skill", 
+    { "name": "SMHI", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "9"
     },
-    { "name": "Visualiseringcenter C", 
+    { "name": "Tobii", 
       "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
       "plats": "10"
+    },
+    { "name": "Visualiseringcenter C", 
+      "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+      "plats": "11"
     }
   ]
 
