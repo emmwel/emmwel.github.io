@@ -3,6 +3,7 @@
     { 
       "title": "Frukost",
       "host": "MTD-gruppen",
+      "time": "09.00-10.00",
       "start": "March 21, 2018 09:00:00",
       "end": "March 21, 2018 10:00:00",
       "place": "Loungen",
@@ -11,6 +12,7 @@
     { 
       "title": "Välkomsttal",
       "host": "MTD-gruppen",
+      "time": "09.00-09.15",
       "start": "March 21, 2018 09:00:00",
       "end": "March 21, 2018 09:15:00",
       "place": "K4",
@@ -19,6 +21,7 @@
     { 
       "title": "Automation är inte lösningen. Det är verktyget.",
       "host": "Nicholas Fernholm",
+      "time": "09.15-10.00",
       "start": "March 21, 2018 09:15:00",
       "end": "March 21, 2018 10:00:00",
       "place": "K4",
@@ -27,6 +30,7 @@
     { 
       "title": "Getting a Ph.D. - Why and How?",
       "host": "Kahin Akram Hassan",
+      "time": "11.15-12.00",
       "start": "March 21, 2018 11:15:00",
       "end": "March 21, 2018 12:00:00",
       "place": "K4",
@@ -35,6 +39,7 @@
     { 
       "title": "Ingenjör, entreprenör, reklamare, hippie",
       "host": "Walter Naeslund",
+      "time": "14.15-15.00",
       "start": "March 21, 2018 14:15:00",
       "end": "March 21, 2018 15:00:00",
       "place": "K4",
@@ -43,6 +48,7 @@
     { 
       "title": "Fönster mot TV-världen",
       "host": "Annika Bidner",
+      "time": "16.15-17.00",
       "start": "March 21, 2018 16:15:00",
       "end": "March 21, 2018 17:00:00",
       "place": "K4",
@@ -51,6 +57,7 @@
     { 
       "title": "Frukost",
       "host": "MTD-gruppen",
+      "time": "09.00-10.00",
       "start": "March 22, 2018 09:00:00",
       "end": "March 22, 2018 10:00:00",
       "place": "Loungen",
@@ -59,6 +66,7 @@
     { 
       "title": "Första jobbet",
       "host": "Paneldiskussion",
+      "time": "10.15-11.00",
       "start": "March 22, 2018 10:15:00",
       "end": "March 22, 2018 11:00:00",
       "place": "K4",
@@ -67,6 +75,7 @@
     { 
       "title": "Virtuella miljöer på Stiller Studios",
       "host": "Sofia Wennström & Aron Tornberg",
+      "time": "14.15-15.00",
       "start": "March 22, 2018 14:15:00",
       "end": "March 22, 2018 15:00:00",
       "place": "K4",
@@ -75,6 +84,7 @@
     { 
       "title": "SnakeBot-tävling",
       "host": "Cygni",
+      "time": "15.00-16.00",
       "start": "March 22, 2018 15:00:00",
       "end": "March 22, 2018 16:00:00",
       "place": "?",
@@ -83,6 +93,7 @@
     { 
       "title": "Hur en av världens mest moderna TV-boxar kom till världen",
       "host": "Ulrika Asplund",
+      "time": "16.15-17.00",
       "start": "March 22, 2018 16:15:00",
       "end": "March 22, 2018 17:00:00",
       "place": "K4",
