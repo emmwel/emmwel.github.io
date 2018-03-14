@@ -3,6 +3,9 @@
     { "name": "Cygni",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1519676243307-so6qn8bnyg-0857c0519856e4b4da151737224ef685%2Fmtd2017_black_red.png",
       "plats": "16",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -10,6 +13,9 @@
     { "name": "Gaia", 
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520361486737-ggw0r9fosyf-65863636a50fe3663153636027c560d9%2Fgaia_logo_rgb_purple_light.png",
       "plats": "25",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -17,6 +23,9 @@
     { "name": "HiQ", 
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520605753956-job3xmr13i8-0d9a66864cdaf62b1274c6a6b5ace27c%2FHiQ_logo.png",
       "plats": "24",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -24,6 +33,9 @@
     { "name": "Dataton", 
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "21",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -31,6 +43,9 @@
     { "name": "Etteplan", 
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520860843564-3idp3zml9xh-71a13957439fe29f573862a2553411dc%2FEtteplan_logo_png.png",
       "plats": "13",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -38,6 +53,9 @@
     { "name": "Qualisys", 
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520261565530-0sqmpml30iep-5b5d677f9e98b22a2284b22a76be4b6f%2FQualisys.png",
       "plats": "17",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -45,6 +63,9 @@
     { "name": "Sick", 
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "19",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -52,6 +73,9 @@
     { "name": "Skill", 
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520078577844-w0yzlw5n50s-fc0cd8b763a71bae9c0c512a302c8407%2Flogga+Png.png",
       "plats": "2",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -59,6 +83,9 @@
     { "name": "SMHI", 
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520860528828-vgaqvn7e9a-c381fe7f64a6e68d43f54314d16a98ec%2FSMHI_Logotype_ai.png",
       "plats": "7",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -66,6 +93,9 @@
     { "name": "Tobii", 
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "23",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -73,6 +103,9 @@
     { "name": "Visualiseringcenter C", 
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "6",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -83,6 +116,9 @@
     { "name": "Xamera",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520260562351-79k0ywewf6i-02ac100124ac72dc83ef04e97d17aba1%2FNBP2206_2.jpg",
       "plats": "11",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -90,6 +126,9 @@
     { "name": "Sectra",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520261144190-nd4ne20lk1q-f2f1f5615943e74d18d8f28be8f2e223%2FSectra-logo-Knowledge-and-passion-vector%40file112.png",
       "plats": "20",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "1"
@@ -97,6 +136,9 @@
     { "name": "Unionen",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520361228056-yrqrv1kn0kq-e7e48f213a74585053cd5c6086920659%2FUS_webblogo_gr%C3%B6n.png",
       "plats": "3",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -104,6 +146,9 @@
     { "name": "Sogeti",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520361802109-wdc5n1mfprg-8e3d8e926e6db67baca4e50ee603fc7c%2Fsogeti_varmred_rgb.jpg",
       "plats": "22",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "1"
@@ -111,6 +156,9 @@
     { "name": "iMatrics",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520362054857-fvsei569as-fdd7803ef83231cf2e3ca57285b71710%2FIMATRICS_3B.png",
       "plats": "26",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "1"
@@ -118,6 +166,9 @@
     { "name": "Unitalent",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520861293549-p95b8xl9ha-aaf200b6336eac43c663c244c3bdeb84%2FUnitalent_logga%2Bsymbol_gul_151204+kopia-2.png",
       "plats": "28",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -125,6 +176,9 @@
     { "name": "Venture Cup",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520861927918-32xqttedbp-189e0e0fdf6a1f517d8960ed874a15c2%2FVC_Logo_Svart_CMYK_medium.png",
       "plats": "30",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -132,6 +186,9 @@
     { "name": "RISE Interactive",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "27",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -139,6 +196,9 @@
     { "name": "InGenious",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "32",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -146,6 +206,9 @@
     { "name": "East Sweden Game",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "31",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -153,6 +216,9 @@
     { "name": "LiU Innovation",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "29",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "1",
       "klimat": "0"
@@ -163,6 +229,9 @@
     { "name": "Bontouch",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520079197971-kvvzmd6al0m-4d689f7c9efe8370b181c44dc4037bca%2Favatar-full-color-large.png",
       "plats": "19",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -170,6 +239,9 @@
     { "name": "Nationellt Forensiskt Centrum",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520079492873-qrv6zszf0r9-3f224a1686a3fb3a57cb20c5f972aa27%2FPOL_150ppi_stor+%281%29.png",
       "plats": "10",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -177,6 +249,9 @@
     { "name": "Image System",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520080164908-dolbqpb04c9-76bc2668354ef0f8556c4061f781b83d%2FLogo+ISAB+MA+horizontal+red-grey+large.jpg",
       "plats": "9",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -184,6 +259,9 @@
     { "name": "Significant Bit",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520080469322-clu834ys5-09c958aae3f3abb6005ff3fd77c3bfcb%2Fsigbit-svart.png",
       "plats": "5",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -191,6 +269,9 @@
     { "name": "Academic Work",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520861638894-csq6mx6n1i6-bcab2d0bdc6aab66aa7108bc246fa768%2FAW_Logo_transparent.png",
       "plats": "15",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "1"
@@ -198,6 +279,9 @@
     { "name": "Cybercom",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "8",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -205,6 +289,9 @@
     { "name": "Sick",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "7",
+      "sponsor": "1",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -212,6 +299,9 @@
     { "name": "Qlik",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "1",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -219,6 +309,9 @@
     { "name": "MindRoad",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "12",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -226,6 +319,9 @@
     { "name": "Resolution Games",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "4",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -233,6 +329,9 @@
     { "name": "Sveriges Ingenjörer",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "14",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -240,6 +339,9 @@
     { "name": "Vricon Systems",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "18",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "1",
       "torsdag": "0",
       "klimat": "0"
@@ -249,6 +351,9 @@
     { "name": "Consid",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520604352999-18wv27dxzma-247c7cfb0ae2a46699e0e7e97fdb9eb9%2Fconsid_logo1.jpg",
       "plats": "4",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "0",
       "torsdag": "1",
       "klimat": "0"
@@ -256,6 +361,9 @@
     { "name": "Goodbye Kansas Studios",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520604555323-0nmzlj5d93d-2313ae0fbfdbc6d1e55d1f56bca7e694%2FGoodbyeKansasStudios-BlackRGB.png",
       "plats": "10",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "0",
       "torsdag": "1",
       "klimat": "0"
@@ -263,6 +371,9 @@
     { "name": "Ericsson",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520605019714-ewsjbb3k78h-8868f4a25a4a4bf67b4e37290c165d58%2FERI_UF_rgb.png",
       "plats": "14",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "0",
       "torsdag": "1",
       "klimat": "0"
@@ -270,6 +381,9 @@
     { "name": "Zenterio",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520859819237-c8e8xfp6ydq-3216165187da683fc0df72eaecb263d3%2FZenterio_Official_Logotype.png",
       "plats": "1",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "0",
       "torsdag": "1",
       "klimat": "0"
@@ -277,6 +391,9 @@
     { "name": "Agricam",
       "image": "https://mtd-2015-assets.s3.amazonaws.com/uploads%2F1520606002131-qm1xb7t5pf-f45ad34750c0eed79cd07df06748dab3%2Fagricam.png",
       "plats": "5",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "0",
       "torsdag": "1",
       "klimat": "0"
@@ -284,6 +401,9 @@
     { "name": "FindOut Technologies",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "18",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "0",
       "torsdag": "1",
       "klimat": "0"
@@ -291,6 +411,9 @@
     { "name": "DICE",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "12",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "0",
       "torsdag": "1",
       "klimat": "0"
@@ -298,6 +421,9 @@
     { "name": "TaxiCaller Nordic",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "15",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "0",
       "torsdag": "1",
       "klimat": "0"
@@ -305,6 +431,9 @@
     { "name": "Decerno",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "8",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "0",
       "torsdag": "1",
       "klimat": "0"
@@ -312,6 +441,9 @@
     { "name": "Dapresy",
       "image": "https://emmwel.github.io/MTD_logo_only_PNG.png",
       "plats": "9",
+      "sponsor": "0",
+      "erbjudande": "Trainee, Anställning",
+      "hemsida": "https://gaia.se/",
       "onsdag": "0",
       "torsdag": "1",
       "klimat": "0"
