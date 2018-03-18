@@ -86,7 +86,7 @@
       "info": "Skill är Östergötlands ledande bemannings- och rekryteringsbolag och våra kunder finns främst inom industri och IT. På uppdrag av våra ägare är vi djupt engagerade i utbildningar och kompetensförsörjningsfrågor och fungerar som en naturlig samlingspunkt för våra kund- och ägarföretag genom våra olika nätverk.",
       "onsdag": "1",
       "torsdag": "1",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "SMHI", 
       "image": "https://emmwel.github.io/logotyper/SMHI.png",
@@ -155,7 +155,7 @@
       "info": "Unionen Student är medlemskapet för dig som siktar på en karriär i det privata arbetslivet.\n \nBli medlem för bara 100 kronor under hela studietiden, så får du verktygen som hjälper dig landa drömjobbet efter examen. Och förmåner som kryddar livet som student lite extra på vägen dit.\n \nLäs mer på unionen.se/student och bli medlem idag!",
       "onsdag": "1",
       "torsdag": "1",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Sogeti",
       "image": "https://emmwel.github.io/logotyper/Sogeti.png",
@@ -246,7 +246,7 @@
       "info": "Bontouch skapar mobila produkter för världens ledande varumärken!\n \nBontouch är en prisbelönt produktinnovationsbyrå som samarbetar med varumärken som SJ, PostNord, Coca-Cola, Skistar och Swish för att skapa unika och transformativa digitala kundupplevelser. Med 90+ designers och ingenjörer serverar Bontouch kunder i Nordamerika, Europa och Kina från tre studior i New York, London och Stockholm. Idag används de produkter som Bontouch skapar av mer än 50 miljoner människor i 196 länder.\n \nVårt äventyr har just börjat! Vårt fokus är alltid på slutanvändaren och UX. Vi är specialiserade på 'analoga till digitala' appar - överbryggar den fysiska världen och den virtuella världen med mobila applikationer som du vill använda varje dag.\n \nJoina oss!",
       "onsdag": "1",
       "torsdag": "0",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "inGenious",
       "image": "https://emmwel.github.io/logotyper/InGenious.png",
@@ -323,7 +323,7 @@
       "info": "För mer information prata med företaget i deras monter!",
       "onsdag": "1",
       "torsdag": "0",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Qlik",
       "image": "https://emmwel.github.io/logotyper/Qlik.png",
