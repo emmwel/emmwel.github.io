@@ -314,17 +314,6 @@
       "torsdag": "0",
       "klimat": "0"
     },
-    { "name": "Sick",
-      "image": "https://emmwel.github.io/logotyper/Sick.png",
-      "plats": "19",
-      "sponsor": "1",
-      "erbjudande": "Exjobb, Sommarjobb, Anställning",
-      "hemsida": "https://gaia.se/",
-      "info": "För mer information prata med företaget i deras monter!",
-      "onsdag": "1",
-      "torsdag": "0",
-      "klimat": "1"
-    },
     { "name": "Qlik",
       "image": "https://emmwel.github.io/logotyper/Qlik.png",
       "plats": "1",
